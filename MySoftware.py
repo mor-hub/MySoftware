@@ -1,1 +1,5 @@
-1 
+def welcome():
+    print("New Screen")
+
+
+welcome()
